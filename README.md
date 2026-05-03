@@ -16,6 +16,13 @@ This project focuses on cleaning a real-world layoffs dataset using MySQL. The r
 
 ## Outcome
 A clean and structured dataset ready for analysis.
+## 📸 Project Screenshots
+
+### Before Cleaning
+
+
+### After Cleaning
+![After](PASTE_LINK_HERE)
 
 ## Key Learning
 - Data cleaning workflow in SQL
